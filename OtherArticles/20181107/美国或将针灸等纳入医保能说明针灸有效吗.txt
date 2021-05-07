@@ -1,0 +1,48 @@
+美国或将针灸等纳入医保,为何他们那么喜欢中医,中医在国外发展的怎么样？
+针对被川普称为国家危机的鸦片类药物滥用危机，美国制定了相应预防法案H.R. 6。
+上月24日，白宫网站宣布川普签署了H.R. 6成为法律。
+
+有人扒出，其中有涉及对多种非药物止痛方法进行评估以替代鸦片类药物的描述，其中包括针灸，按摩，还包括正脊，正念等方法。
+针灸有用吗？
+自从上世纪70年代，世界被尼克松访华期间见识到的中国神奇的针灸麻醉震惊后，针灸再次引起西方世界的兴趣，并激发了大量研究。
+目前，关于针灸的作用机制，西方已经彻底抛弃了东方神秘主义的经络和穴位说，建立起了被称为“西医针灸”的内源性鸦片类药物释放说。
+至于针灸临床应用的效果，也进行了大量研究。
+总体上，除止痛以外的其他所有应用，都没有获得任何可信的证据支持。
+关于针灸止痛，进行了大量研究，包括严格设计的临床对照研究。
+过不了几年，就会对这些研究进行系统分析，系列荟萃分析报告都可以在
+cochranelibrary找到，有兴趣的同学可以去看。
+大致上，这些研究结果是：
+针灸可能获得统计学意义上，而非临床意义上的止痛止痛作用
+什么意思呢？
+就是针灸似乎显示出一定程度上的止痛作用。
+比如，2017年最新的荟萃分析，研究者选择了39项质量较好的临床试验，共包括2万多名患者。通过比较针灸与假针灸（不管穴位，随便扎）或无针灸对照对一般的肌肉骨骼疼痛、骨关节炎、慢性头痛和颈肩疼等四种慢性疼痛的止痛作用，发现针灸与无针灸对照组比较，疼痛减轻0.5个标准差（SD，意义后面介绍）。但是，与假针灸相比，针灸治疗疼痛的减轻程度仅有0.2SD。
+这个结果与之前的两项全面荟萃分析的结论基本一致。
+2009年一项包含13项试验3千多名患者的分析，针灸与假针灸相比疼痛减轻仅有0.17SD，而假针灸与无针灸相比疼痛减轻反而更显著，达0.42SD。
+2012年的分析包含31项试验近1.8万患者，针灸与无针灸对腰痛、骨关节炎和慢性头疼疼痛的减轻也大致在0.2SD；假针灸与无针灸相比，同样获得更显著的止痛效果，在0.42~0.57SD之间。
+但是，这种止痛作用仅仅有统计学意义，却并不具有实际应用价值。
+简单来说，针灸相对于假针灸疼痛减轻的0.2SD，在100毫米的痛觉视觉模拟评分量尺上仅相当于5毫米。
+
+临床上，一般认为疼痛减轻10到15毫米以上才具有临床意义。
+就是说，针灸的止痛作用仅仅是统计学意义上的，没有实际的临床价值。
+而且，还不能确定这种止痛作用是不是真的由针灸刺激导致。
+即使是美国国立卫生研究院替代医学研究中心（NCCIH）也认为：“ 证据表明，许多与针灸针刺无关的因素 ， 如期望和信念， 可能在针灸对疼痛的有益作用中起重要作用。”
+
+
+英美两国对针灸止痛证据的解读和态度不同
+正如NCCIH所称，由于针灸止痛作用的“模棱两可性”，有关临床指南对针灸的推荐并不一致。
+在英国，早期的针灸可以有效止痛的证据促使NICE制定的有关膝关节炎、背痛和慢性头痛的临床指南都列入了针灸，也就意味着针灸被列在英国全民医保之内。
+但是，随着更多证据的积累，英国认为针灸的止痛作用并不确定和缺乏使用价值，于是分别于2014年和2016年将针灸剔除了新修订的膝关节炎和背痛临床指南。
+由于，慢性头痛的指南还没有修订，针灸暂时还保留在就的指南中。
+也就是说，由于是国家以税收兜底全民医保，奉行纳税人的钱只用于有证据支持的疗法的英国，正在逐步将针灸踢出临床指南和医保。
+在美国，针灸仍被列在2017年修订的慢性背痛的临床指南的推荐之列。
+至于针灸被列入美国“医保”，鉴于美国“医保”的多元化，联邦医保的覆盖范围有限。当然，商业保险也很可能跟随联邦医保列入针灸。
+尤其是为了对抗被川普称为“国家危机”的鸦片类药物滥用，纳入一些没有充足证据支持的疗法来对付慢性疼痛，也不是不可能。反正，大部分是是由商业保险公司出钱。
+再怎么滴，也没有我们曾经的的“一根银针一把草药”的安慰剂效应覆盖面更广泛吧。
+参考资料
+[1] NICE . NICE guideline on osteoarthritis: the care and management of osteoarthritis in adults. 2014.
+[2] NICE. Low back pain and sciatica in over 16s: assessment and management. 2016.
+[3] Vickers AJ, Vertosick EA, Lewith G, et al., Acupuncture Trialists’ Collaboration. Acupuncture for chronic pain: update of an individual patient data meta-analysis. J Pain2017;30:S1526-5900(17)30780-0.
+[4] Madsen MV, Gøtzsche PC, Hróbjartsson A. Acupuncture treatment for pain: systematic review of randomised clinical trials with acupuncture, placebo acupuncture, and no acupuncture groups. BMJ2009;338:a3115.
+[5] Vickers AJ, Cronin AM, Maschino AC, et al., Acupuncture Trialists’ Collaboration. Acupuncture for chronic pain: individual patient data meta-analysis. Arch Intern Med2012;172:1444-53.
+[6] NCCIH:Acupuncture: In Depth https://nccih.nih.gov/health/acupuncture/introduction#hed3
+[7] Qaseem A, Wilt TJ, McLean RM, Forciea MA, Clinical Guidelines Committee of the American College of Physicians. Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the American College of Physicians. Ann Intern Med2017;166:514-30
